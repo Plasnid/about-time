@@ -32,8 +32,8 @@ clearInterval(myPulse);
  * *      What to do when the interval completes
  * * }, timeToCompletionInMilliseconds);
  */
-console.log("about to taste my lunch")
-let tastingLunch = setTimeout(() => {
-    console.log("That was an amazing lunch!");
+console.log("About to pay tuition!  Eeeek my bank account!");
+let payingTuition = setTimeout(() => {
+    console.log("Now it is paid!");
 }, 10000);
 
